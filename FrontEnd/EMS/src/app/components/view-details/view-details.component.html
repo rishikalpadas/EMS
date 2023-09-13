@@ -1,0 +1,89 @@
+
+<div class="container my-5">
+    <h1 class="mb-3">Edit Employee</h1>
+    
+    <hr>
+    <div class="row">
+        <div class="col-6">
+
+            <form #form="ngForm" >
+                <h4>Personal Details</h4>
+                <div class="mb-3">
+                    <label for="id" class="form-label">Id</label>
+                    <input type="text" class="form-control" id="id" 
+                    name="id" [(ngModel)]="employeeDetails.id" readonly>
+                  </div>
+
+                <div class="mb-3">
+                  <label for="name" class="form-label">Name</label>
+                  <input type="text" class="form-control" id="name" 
+                  name="name" [(ngModel)]="employeeDetails.name">
+                </div>
+        
+                <div class="mb-3">
+                  <label for="email" class="form-label">Email</label>
+                  <input type="email" class="form-control" id="email"
+                  name="email" [(ngModel)]="employeeDetails.email">
+                </div>
+                
+                <div class="mb-3">
+                    <label for="phone" class="form-label">Phone No.</label>
+                    <input type="number" class="form-control" id="phone"
+                    name="phone" [(ngModel)]="employeeDetails.phone">
+                  </div>
+        
+                  <div class="mb-3">
+                    <label for="dob" class="form-label">DOB</label>
+                    <input type="text" class="form-control" id="dob"
+                    name="dob" [(ngModel)]="employeeDetails.dob">
+                  </div>
+        
+                  <div class="mb-3">
+                    <label for="address" class="form-label">Address</label>
+                    <input type="text" class="form-control" id="address"
+                    name="address" [(ngModel)]="employeeDetails.address">
+                  </div>
+        
+                <h4>Qualifications</h4>
+                <div class="mb-3">
+                  <label for="degree" class="form-label">Highest Degree</label>
+                  <input type="text" class="form-control" id="degree"
+                  name="degree" [(ngModel)]="employeeDetails.degree">
+                </div>
+        
+                <div class="mb-3">
+                  <label for="specialization" class="form-label">Specialization of the highest degree</label>
+                  <input type="text" class="form-control" id="specialization"
+                  name="specialization" [(ngModel)]="employeeDetails.specialization">
+                </div>
+                
+                <div class="mb-3">
+                    <label for="skills" class="form-label">Skillset</label>
+                    <input type="text" class="form-control" id="skills"
+                    name="skills" [(ngModel)]="employeeDetails.skills">
+                  </div>
+        
+                <h4>Job Details</h4>
+                <div class="mb-3">
+                  <label for="designation" class="form-label">Designation</label>
+                  <input type="text" class="form-control" id="designation"
+                  name="designation" [(ngModel)]="employeeDetails.designation">
+                </div>
+        
+                <div class="mb-3">
+                  <label for="salary" class="form-label">Salary</label>
+                  <input type="number" class="form-control" id="salary"
+                  name="salary" [(ngModel)]="employeeDetails.salary">
+                </div>
+                
+                
+        
+                  
+                
+                <a routerLink="/dashboard" class="btn btn-outline-info mx-3">Back to dashboard</a>
+              </form>
+        </div>
+    </div>
+</div>
+
+

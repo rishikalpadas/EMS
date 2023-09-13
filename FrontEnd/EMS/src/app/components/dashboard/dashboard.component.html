@@ -1,0 +1,19 @@
+<nav class="navbar bg-body-tertiary">
+  <div class="container-fluid">
+    <a class="navbar-brand">Employee Management System</a>
+    <form class="d-flex" role="search">
+    <a class="navbar-brand">Welcome, <b>{{fullName}}</b></a>
+    <a style="cursor: pointer;" (click)="logout()" class="navbar-brand logout"> Logout <span class="fa fa-power-off"></span></a>
+      
+      
+    </form>
+  </div>
+</nav>
+
+
+
+<a *ngIf="role==='Admin'" routerLink="/add-employee" class="fa fa-plus-circle add mx-5 mt-5 "><span>  Add Employee</span></a>
+<app-employees-list></app-employees-list>
+
+
+ 

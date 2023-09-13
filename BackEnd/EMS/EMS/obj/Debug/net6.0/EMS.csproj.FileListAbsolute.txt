@@ -1,0 +1,528 @@
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\appsettings.json
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.exe
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.deps.json
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.runtimeconfig.json
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.pdb
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Humanizer.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.AssemblyReference.cache
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.AssemblyInfoInputs.cache
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.AssemblyInfo.cs
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.CoreCompileInputs.cache
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.EMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.build.EMS.props
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EMS.props
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EMS.props
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\scopedcss\bundle\EMS.styles.css
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.CopyComplete
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\refint\EMS.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.pdb
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.genruntimeconfig.cache
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\ref\EMS.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\appsettings.json
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.exe
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.deps.json
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.runtimeconfig.json
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.pdb
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.AssemblyReference.cache
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.AssemblyInfoInputs.cache
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.AssemblyInfo.cs
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.CoreCompileInputs.cache
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.EMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.build.EMS.props
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EMS.props
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EMS.props
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\scopedcss\bundle\EMS.styles.css
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.CopyComplete
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\refint\EMS.dll
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.pdb
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.genruntimeconfig.cache
+C:\Users\rishi\Desktop\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\ref\EMS.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\appsettings.Development.json
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\appsettings.json
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.exe
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.deps.json
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.runtimeconfig.json
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.pdb
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Azure.Core.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Azure.Identity.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Humanizer.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.CodeDom.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Memory.Data.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Text.Json.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.AssemblyReference.cache
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.AssemblyInfoInputs.cache
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.AssemblyInfo.cs
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.CoreCompileInputs.cache
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.MvcApplicationPartsAssemblyInfo.cs
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.MvcApplicationPartsAssemblyInfo.cache
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.EMS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.build.EMS.props
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EMS.props
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EMS.props
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.pack.json
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.build.json
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.development.json
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\scopedcss\bundle\EMS.styles.css
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.CopyComplete
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\refint\EMS.dll
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.pdb
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.genruntimeconfig.cache
+D:\my files\temp\Aabasoft Project\EMS\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\ref\EMS.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\appsettings.Development.json
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\appsettings.json
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.exe
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.deps.json
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.runtimeconfig.json
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.pdb
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Azure.Core.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Azure.Identity.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Humanizer.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.CodeDom.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Memory.Data.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Text.Json.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.AssemblyReference.cache
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.AssemblyInfoInputs.cache
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.AssemblyInfo.cs
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.CoreCompileInputs.cache
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.MvcApplicationPartsAssemblyInfo.cs
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.MvcApplicationPartsAssemblyInfo.cache
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.EMS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.build.EMS.props
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EMS.props
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EMS.props
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.pack.json
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.build.json
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.development.json
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\scopedcss\bundle\EMS.styles.css
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.CopyComplete
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\refint\EMS.dll
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.pdb
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.genruntimeconfig.cache
+D:\my files\temp\Aabasoft Project\EMS_final\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\ref\EMS.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\appsettings.Development.json
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\appsettings.json
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.exe
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.deps.json
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.runtimeconfig.json
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.pdb
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Azure.Core.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Azure.Identity.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Humanizer.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.CodeDom.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Memory.Data.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Text.Json.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.AssemblyReference.cache
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.AssemblyInfoInputs.cache
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.AssemblyInfo.cs
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.CoreCompileInputs.cache
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.MvcApplicationPartsAssemblyInfo.cs
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.MvcApplicationPartsAssemblyInfo.cache
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.EMS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.build.EMS.props
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EMS.props
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EMS.props
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.pack.json
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.build.json
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.development.json
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\scopedcss\bundle\EMS.styles.css
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.CopyComplete
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\refint\EMS.dll
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.pdb
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.genruntimeconfig.cache
+D:\projects\Aabasoft\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\ref\EMS.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\appsettings.Development.json
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\appsettings.json
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.exe
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.deps.json
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.runtimeconfig.json
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.pdb
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Azure.Core.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Azure.Identity.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Humanizer.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.CodeDom.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Memory.Data.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Text.Json.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.AssemblyReference.cache
+D:\my files\projects\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\my files\projects\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.AssemblyInfoInputs.cache
+D:\my files\projects\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.AssemblyInfo.cs
+D:\my files\projects\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.CoreCompileInputs.cache
+D:\my files\projects\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.MvcApplicationPartsAssemblyInfo.cs
+D:\my files\projects\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.MvcApplicationPartsAssemblyInfo.cache
+D:\my files\projects\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.EMS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\my files\projects\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.build.EMS.props
+D:\my files\projects\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EMS.props
+D:\my files\projects\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EMS.props
+D:\my files\projects\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.pack.json
+D:\my files\projects\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.build.json
+D:\my files\projects\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.development.json
+D:\my files\projects\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\scopedcss\bundle\EMS.styles.css
+D:\my files\projects\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.CopyComplete
+D:\my files\projects\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\refint\EMS.dll
+D:\my files\projects\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.pdb
+D:\my files\projects\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.genruntimeconfig.cache
+D:\my files\projects\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\ref\EMS.dll
